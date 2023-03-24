@@ -1,0 +1,44 @@
+#  Mixtrack PRO 3 Technical note
+#  Created by Douglas Barone
+#  Updated on 30/05/2016
+
+Modifier #1 - Wheel Deck A
+0 - Scratch OFF
+1 - Scratch ON
+
+Modifier #2 - Wheel Dack B
+0 - Scratch OFF
+1 - Scratch ON
+
+Modifier #3 - FX Unit 1 Helper
+0 - No touch ON
+1 - Touch ON on 1
+2 - Touch ON on 2
+3 - Touch ON on 3
+4 - Touch ON on 1 & 2
+5 - Touch ON on 1 & 3
+6 - Touch ON on 2 & 3
+7 - Touch ON on ALL Three
+
+Modifier #4 - FX Unit 2 Helper
+0 - No touch ON
+1 - Touch ON on 1
+2 - Touch ON on 2
+3 - Touch ON on 3
+4 - Touch ON on 1 & 2
+5 - Touch ON on 1 & 3
+6 - Touch ON on 2 & 3
+7 - Touch ON on ALL Three
+
+Modifier #5
+
+Modifier #6
+
+Modifier #7 - Browser helper
+0 - List
+1 - Tree
+
+Modifier #8 - SHIFT
+0 - OFF
+1 - ON
+
